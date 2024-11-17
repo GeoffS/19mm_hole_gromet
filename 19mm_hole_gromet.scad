@@ -3,7 +3,7 @@ include <../OpenSCADdesigns/chamferedCylinders.scad>
 
 grometOD = 19.5;
 grometID = 7.5;
-grometFlangeOD = grometOD + 8;
+grometFlangeOD = grometOD + 9;
 grometFlangeZ = 4;
 grometFlangeCZ = 1.4;
 grometZ = grometFlangeZ + 5;
